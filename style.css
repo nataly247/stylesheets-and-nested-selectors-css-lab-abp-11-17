@@ -13,17 +13,17 @@ header {
 
 header nav {
   float: right;
-  border-bottom: : 1px solid #cccccc;
 }
 
 nav ul {
   padding: 0;
   margin: 40px 0 0 0;
 }
- nav ul li {
+
+nav ul li {
    display: inline;
    margin-right: 10px;
- }
+}
 
 nav a {
   text-decoration: none;
